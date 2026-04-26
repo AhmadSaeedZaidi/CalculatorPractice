@@ -1,0 +1,5 @@
+AdderTest.AddPositiveNumbers 1 0.00478779
+AdderTest.AddNegativeNumbers 1 0.00638529
+AddSimpleTest.AddZero 1 0.00627996
+AddSimpleTest.AddPositiveAndNegative 1 0.00482225
+---

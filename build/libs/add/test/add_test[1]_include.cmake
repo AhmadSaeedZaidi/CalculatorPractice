@@ -1,0 +1,5 @@
+if(EXISTS "/home/ahmadsaeed/code/CalculatorPractice/build/libs/add/test/add_test[1]_tests.cmake")
+  include("/home/ahmadsaeed/code/CalculatorPractice/build/libs/add/test/add_test[1]_tests.cmake")
+else()
+  add_test(add_test_NOT_BUILT add_test_NOT_BUILT)
+endif()
